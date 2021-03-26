@@ -22,6 +22,7 @@ cabin:	Cabin number
 embarked:	Port of Embarkation	C = Cherbourg, Q = Queenstown, S = Southampton
 
 Variable Notes
+
 pclass: A proxy for socio-economic status (SES)
 1st = Upper
 2nd = Middle
