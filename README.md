@@ -2,11 +2,13 @@
 
 Applying data analytics using R on Titanic datasets 
 
-Predict survival on the Titanic and get familiar with Machine Learning basics
+Predict the survival on the Titanic by using Machine Learning techniques
 
 Source: https://www.kaggle.com/c/titanic/data?select=test.csv
 
-The training set should be used to build your machine learning models. For the training set, we provide the outcome (also known as the “ground truth”) for each passenger. Your model will be based on “features” like passengers’ gender and class. You can also use feature engineering to create new features.
+The training set should be used to build your machine learning models. 
+For the training set, we provide the outcome (also known as the “ground truth”) for each passenger. 
+Your model will be based on “features” like passengers’ gender and class. You can also use feature engineering to create new features.
 
 Data Dictionary
 
